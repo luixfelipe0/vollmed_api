@@ -4,7 +4,7 @@ API Rest de um aplicativo de uma clínica médica, desenvolvido usando Java Spri
 ![Captura de tela da documentação da API, na interface do Swagger UI.](https://github.com/luixx0/vollmed_api/assets/119303049/6c220816-52e9-4e56-9628-1b524982d874)
 
 
-#DESCRIÇÂO E FUNCIONALIDADES DO PROJETO
+#DESCRIÇÃO E FUNCIONALIDADES DO PROJETO
 
 Vollmed é um aplicativo de uma clínica médica, com o objetivo de realizar as funcionalidades de cadastrar, listar, atualizar e deletar tanto um médico quanto um paciente no MySQL, que foi utilizado como o banco de dados desse projeto. Outra funcionalidade notável é a de cadastro e cancelamento de consultas.
 
