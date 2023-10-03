@@ -1,12 +1,12 @@
-# vollmed_api
+# 💻 Sobre o projeto
 API Rest de um aplicativo de uma clínica médica, desenvolvido usando Java Spring Boot.
 
 ![Captura de tela da documentação da API, na interface do Swagger UI.](https://github.com/luixx0/vollmed_api/assets/119303049/6c220816-52e9-4e56-9628-1b524982d874)
 
 
-# DESCRIÇÃO E FUNCIONALIDADES DO PROJETO
+# ⚙ DESCRIÇÃO E FUNCIONALIDADES DO PROJETO
 
-Vollmed é um aplicativo de uma clínica médica, com o objetivo de realizar as funcionalidades de cadastrar, listar, atualizar e deletar tanto um médico quanto um paciente no MySQL, que foi utilizado como o banco de dados desse projeto. Outra funcionalidade notável é a de cadastro e cancelamento de consultas.
+Vollmed é um aplicativo de uma clínica médica, com o objetivo de realizar as funcionalidades de cadastrar, listar, atualizar e deletar tanto um médico quanto um paciente no MySQL, que foi utilizado como o banco de dados desse projeto. Outra funcionalidade notável é a de marcação e cancelamento de consultas.
 
 O projeto contém um sistema de segurança utilizando TokensJWT, para simular a autenticação de um usuário logado no sistema, visto que a política de criação de sessão dessa API é de STATELESS, ou seja, ela não guarda sessão.
 
@@ -23,7 +23,7 @@ Foram respeitadas todas as regras de negócio da aplicação, tratanto as exceç
 
 Também foi utilizado as migrations com o flyway, para fazer o controle de versão do banco de dados, adicionando e criando novas tabelas e colunas no MySQL, além de querys personalizadas para determinados métodos nos repositories, para fazer select no banco de dados.
 
-# TECNOLOGIAS USADAS
+# 🔧 TECNOLOGIAS USADAS
 
 Nesse projeto foi utilizado as seguintes dependências com o Maven:
 
@@ -39,6 +39,6 @@ Nesse projeto foi utilizado as seguintes dependências com o Maven:
 
 Todo o projeto foi desenvolvido através do IntelliJ IDEA, utilizando a linguagem Java e o framework Spring Boot, foi utilizado de testes automatizados e unitários das funcionalidades envolvendo os Controllers e os Repositories, e documentado usando o Swagger UI.
 
-# AGRADECIMENTOS
+# 🎇 AGRADECIMENTOS
 
 Esse projeto foi desenvolvido com a formação Java e Spring Boot da Alura, deixo aqui meus agradecimentos ao instrutor Rodrigo Ferreira.
